@@ -6,6 +6,9 @@ from hashlib import md5
 import os
 import json
 
+#Todo#
+#Parameterize Username/Password
+
 USERNAME = ''
 PASSWORD = ''
 
